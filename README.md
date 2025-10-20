@@ -10,19 +10,19 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a passionate **Fullstack Software Developer** based in **Munich**, crafting modern web applications with cutting-edge technologies. When I'm not coding, you'll find me exploring the latest automotive tech or hitting the gym.
 
-- 💼 Currently working on innovative fullstack projects
-- 🚀 Building with **React**, **TypeScript**, and **Supabase**
-- 🎯 Focused on creating clean, scalable, and performant applications
-- 🏎️ Enthusiast: **Coding** • **Cars** • **Gym**
-- 💡 Always learning and staying up-to-date with the latest tech trends
+-  Currently working on innovative fullstack projects
+-  Building with **React**, **JavaScript**, and **Supabase**
+-  Focused on creating clean, scalable, and performant applications
+-  Enthusiast: **Coding** • **Cars** • **Gym**
+-  Always learning and staying up-to-date with the latest tech trends
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,13 +39,11 @@ I'm a passionate **Fullstack Software Developer** based in **Munich**, crafting 
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9D1D9" alt="GitHub Stats" height="170" />
@@ -62,27 +60,26 @@ I'm a passionate **Fullstack Software Developer** based in **Munich**, crafting 
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
-- 🔭 Building production-ready fullstack applications
-- 🌱 Deepening expertise in modern React patterns and TypeScript
-- 🚀 Exploring advanced Supabase features and real-time capabilities
-- 💪 Optimizing application performance and user experience
-- 🤝 Open to collaborating on innovative projects
+-  Building production-ready fullstack applications
+-  Experimenting with different Techstacks
+-  Optimizing application performance and user experience
+-  Open to collaborating on innovative projects
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <!-- Add your social links here -->
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/Lukas-eifertinger" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/7ukasx" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:eifertingerlukas@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <!-- Add more social links as needed -->
